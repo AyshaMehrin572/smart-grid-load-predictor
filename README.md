@@ -24,13 +24,13 @@ A Random Forest Regression model is used to learn patterns from historical data 
 
 -Seasonal decomposition to analyze demand trends
 
-### Machine Learning Model
+## Machine Learning Model
 
 -Algorithm Used: Random Forest Regressor
 
 -Target Variable: Grid Load (MW)
 
-#### Model Evaluation Metrics
+### Model Evaluation Metrics
 
 -MAE (Mean Absolute Error)
 
@@ -38,7 +38,7 @@ A Random Forest Regression model is used to learn patterns from historical data 
 
 -MAPE (Mean Absolute Percentage Error)
 
-##### Project Structure
+#### Project Structure
 ```
 smart-grid-load-predictor
 │
@@ -49,7 +49,7 @@ smart-grid-load-predictor
 └── README.md
 ```
 
-###### How to Run the Project
+##### How to Run the Project
 
 1️. Clone the Repository
 ```
@@ -69,7 +69,7 @@ After running the command, the application will open in your browser:
 ```
 http://localhost:8501
 ```
-####### Output
+###### Output
 
 -The application generates an interactive dashboard that provides:
 
